@@ -1,6 +1,6 @@
 # othello
 
-Masters dissertation project: Othello AI player 
+An AI othello player.
 
 AI algorithms implemented:
 
